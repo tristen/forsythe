@@ -93,7 +93,6 @@
   </div>
   <script src='js/dragdealer.min.js'></script>
   <script src='js/qwery.min.js'></script>
-  <script src='js/utils.js'></script>
   <script src='js/fonts.js'></script>
   <script>
     var i = document.getElementById('test'),
@@ -109,6 +108,7 @@
     var m = document.getElementById('masthead');
     addEvent(document.getElementById('t-toggle'), 'click', function(e) {
       m.className !== 'active' ? m.className = 'active' : m.className = '';
+      return false;
     });
   </script>
 </body>
