@@ -107,8 +107,9 @@
 
     var m = document.getElementById('masthead');
     addEvent(document.getElementById('t-toggle'), 'click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
       m.className !== 'active' ? m.className = 'active' : m.className = '';
-      return false;
     });
   </script>
 </body>
