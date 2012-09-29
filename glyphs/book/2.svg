@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg3373"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="2.svg">
+  <defs
+     id="defs3375" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74159881"
+     inkscape:cx="521.08454"
+     inkscape:cy="611.90404"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="453.98442,199.97922"
+       id="guide3381" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3420"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3378">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="R"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.362183)">
+    <path
+       style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
+       d="M 320 0 L 320 64 L 432 64 C 463.96159 64 463.78125 63.99841 463.78125 88 L 463.78125 216 L 464 352 C 465.928 383.936 463.96159 384 432 384 L 383.9375 384 C 351.9727 384 320 416.00001 320 448 L 320.3125 728 C 320.3493 759.99984 352.0977 800 384.0625 800 L 527.8125 800 L 528.0625 736 L 416.0625 736 C 384.09451 736 384.06625 735.99999 383.90625 696 L 384.0625 480 C 384.1089 447.99969 384.09771 448 416.0625 448 L 464.28125 448 C 496.24604 448 528.0625 424 528.0625 392 L 528.0625 64 C 528.0625 32.000163 496.08979 0 464.125 0 L 320 0 z "
+       transform="translate(0,52.362183)"
+       id="path4427" />
+  </g>
+</svg>
