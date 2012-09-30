@@ -41,19 +41,19 @@ table { border-collapse: collapse; border-spacing:0; }
 
 @font-face {
   font-family:'Forsythe Medium';
-  src: url('webfonts/forsythe-medium.eot') format('eot');
-  src: url('webfonts/forsythe-medium.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/forsythe-medium.woff') format('woff');
-       url('webfonts/forsythe-medium.ttf') format('truetype'),
-       url('webfonts/forsythe-medium.svg#rothmanplain') format('svg');
+  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.eot') format('eot');
+  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.eot?#iefix') format('embedded-opentype'),
+       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.woff') format('woff');
+       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.ttf') format('truetype'),
+       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.svg#forythe') format('svg');
   }
 @font-face {
   font-family:'Forsythe Book';
-  src: url('webfonts/forsythe-book.eot') format('eot');
-  src: url('webfonts/forsythe-book.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/forsythe-book.woff') format('woff');
-       url('webfonts/forsythe-book.ttf') format('truetype'),
-       url('webfonts/forsythe-book.svg#rothmanplain') format('svg');
+  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.eot') format('eot');
+  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.eot?#iefix') format('embedded-opentype'),
+       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.woff') format('woff');
+       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.ttf') format('truetype'),
+       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.svg#forythe') format('svg');
   }
 
 
@@ -119,107 +119,6 @@ a {
   }
 
 /*-----------------------------------
-  Section: Heading
--------------------------------------*/
-#masthead {
-  font:500 13px/20px 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  background:#202020;
-  color:#626d75;
-  height:35px;
-  position:absolute;
-  width:100%;
-  top:0;left:0;right:0;
-  z-index:1000;
-  overflow:hidden;
-  -webkit-transition:height 400ms cubic-bezier(0.435, 0.705, 0.000, 1.000);
-     -moz-transition:height 400ms cubic-bezier(0.435, 0.705, 0.000, 1.000);
-      -ms-transition:height 400ms cubic-bezier(0.435, 0.705, 0.000, 1.000);
-       -o-transition:height 400ms cubic-bezier(0.435, 0.705, 0.000, 1.000);
-          transition:height 400ms cubic-bezier(0.435, 0.705, 0.000, 1.000);
-  -webkit-transition-timing-function:cubic-bezier(0.435, 0.705, 0.000, 1.000);
-     -moz-transition-timing-function:cubic-bezier(0.435, 0.705, 0.000, 1.000);
-      -ms-transition-timing-function:cubic-bezier(0.435, 0.705, 0.000, 1.000);
-       -o-transition-timing-function:cubic-bezier(0.435, 0.705, 0.000, 1.000);
-          transition-timing-function:cubic-bezier(0.435, 0.705, 0.000, 1.000);
-  }
-  #masthead.active {
-    height:300px;
-    }
-  #masthead a {
-    color:#f3734f;
-    text-decoration:none;
-    font-weight:bold;
-    }
-    #masthead a:hover {
-      color:#f6957a;
-      }
-      #masthead ul li a {
-        display:block;
-        }
-
-  #t-toggle {
-    background:#303030;
-    height:35px;
-    display:block;
-    position:absolute;
-    width:100%;
-    bottom:0;left:0;right:0;
-    -webkit-transition: background-color 0.1s linear;
-       -moz-transition: background-color 0.1s linear;
-         -o-transition: background-color 0.1s linear;
-            transition: background-color 0.1s linear;
-    }
-    .active #t-toggle,
-    #t-toggle:hover {
-      background:#292929;
-      }
-    #t-toggle span {
-      background:#5f5f5f;
-      position:absolute;
-      display:block;
-      left:50%;
-      bottom:10px;
-      width:16px;
-      height:16px;
-      margin-left:-8px;
-      line-height:16px;
-      text-align:center;
-      text-indent:-999em;
-      -webkit-border-radius:50%;
-              border-radius:50%;
-      }
-      .active #t-toggle span {
-        background:transparent url(images/sprite.png) no-repeat -20px 0;
-        }
-
-#masthead h2,
-#masthead h3 {
-  font-weight:700;
-  color:#fff;
-  }
-
-.col4 {
-  float:left;
-  width:25%;
-  }
-.inner {
-  padding:40px 20px 0 0;
-  }
-
-#masthead .icon {
-  width:40px;
-  height:40px;
-  float:left;
-  margin:10px 5px 20px 0;
-  }
-.icon.home          { background-position:0 -20px; }
-.icon.twitter       { background-position:-45px -20px; }
-.icon.github        { background-position:-90px -20px; }
-.icon.home:hover    { background-position:-135px -20px; }
-.icon.twitter:hover { background-position:-180px -20px; }
-.icon.github:hover  { background-position:-225px -20px; }
-
-/*-----------------------------------
   Section: slides
 -------------------------------------*/
 #slides {
@@ -272,10 +171,9 @@ a {
   color:#fff;
   }
   .slide-1.active .presenting {
-    line-height:1px;
     font-size:36px;
-    line-height:64px;
-    margin-top:120px;
+    line-height:42px;
+    margin-top:130px;
     display:block;
     }
 
