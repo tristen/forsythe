@@ -32,16 +32,6 @@
        id="pattern4820"
        patternTransform="translate(411,1154.3622)" />
     <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4760"
-       id="pattern4771"
-       patternTransform="translate(391,1158.3622)" />
-    <pattern
-       inkscape:collect="always"
-       xlink:href="#pattern4015"
-       id="pattern4738"
-       patternTransform="translate(376.83765,1324.5481)" />
-    <pattern
        patternUnits="userSpaceOnUse"
        width="10"
        height="10"
@@ -264,7 +254,7 @@
          id="tspan2993"
          sodipodi:role="line"><tspan
            style="fill:#000000;fill-opacity:0.1835749"
-           id="tspan3828">sans</tspan></tspan></text>
+           id="tspan3828">sAns</tspan></tspan></text>
     <rect
        style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4740"
