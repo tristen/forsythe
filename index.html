@@ -103,17 +103,14 @@
         t = document.getElementById('weight-toggle'),
         s = document.getElementById('slides'),
         fontUI = new FontUI();
-
         fontUI.fontZoomer('text-zoomer', o);
         fontUI.typeTester(i,o,t);
         fontUI.slideShow(s);
-
-    var m = document.getElementById('masthead');
-    addEvent(document.getElementById('t-toggle'), 'click', function(e) {
-      e.preventDefault();
-      e.stopPropagation();
-      m.className !== 'active' ? m.className = 'active' : m.className = '';
-    });
+  </script>
+  <script src='http://tristen.ca/site.js'></script>
+  <script>
+    var masthead = new Tristen();
+    masthead.masthead();
   </script>
   <script>
     var _gaq = _gaq || [];
