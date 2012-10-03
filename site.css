@@ -56,17 +56,6 @@ table { border-collapse: collapse; border-spacing:0; }
        url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.svg#forythe') format('svg');
   }
 
-
-*::-webkit-scrollbar {
-    background:#fff;
-    width:15px;
-    }
-*::-webkit-scrollbar-thumb {
-  background:#ccc;
-  border-radius:15px;
-  border:5px #fff solid;
-  }
-
 .prose {
   font:15px/22px 'Century Schoolbook',Century,Serif;
   }
@@ -244,12 +233,11 @@ a {
   top:-55px;
   }
 .item {
-  background:#ccc;
-  background:rgba(0,0,0,0.25);
+  background:#e0e0e0;
   display:inline-block;
   width:15px;
   height:15px;
-  margin-right:5px;
+  margin-right:10px;
   -webkit-transition:background 0.1s linear;
      -moz-transition:background 0.1s linear;
        -o-transition:background 0.1s linear;
@@ -257,9 +245,6 @@ a {
   -webkit-border-radius:50%;
           border-radius:50%;
   }
-  .item:hover {
-    background:rgba(0,0,0,0.5);
-    }
   .item.active {
     background:#000;
     background:rgba(0,0,0,0.95);
