@@ -41,19 +41,19 @@ table { border-collapse: collapse; border-spacing:0; }
 
 @font-face {
   font-family:'Forsythe Medium';
-  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.eot') format('eot');
-  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.eot?#iefix') format('embedded-opentype'),
-       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.woff') format('woff');
-       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.ttf') format('truetype'),
-       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-medium.svg#forythe') format('svg');
+  src: url('webfonts/forsythe-medium.eot') format('eot');
+  src: url('webfonts/forsythe-medium.eot?#iefix') format('embedded-opentype'),
+       url('webfonts/forsythe-medium.woff') format('woff');
+       url('webfonts/forsythe-medium.ttf') format('truetype'),
+       url('webfonts/forsythe-medium.svg#forythe') format('svg');
   }
 @font-face {
   font-family:'Forsythe Book';
-  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.eot') format('eot');
-  src: url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.eot?#iefix') format('embedded-opentype'),
-       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.woff') format('woff');
-       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.ttf') format('truetype'),
-       url('https://github.com/tristen/forsythe/raw/master/webfonts/forsythe-book.svg#forythe') format('svg');
+  src: url('webfonts/forsythe-book.eot') format('eot');
+  src: url('webfonts/forsythe-book.eot?#iefix') format('embedded-opentype'),
+       url('webfonts/forsythe-book.woff') format('woff');
+       url('webfonts/forsythe-book.ttf') format('truetype'),
+       url('webfonts/forsythe-book.svg#forythe') format('svg');
   }
 
 .prose {
