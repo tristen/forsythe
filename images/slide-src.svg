@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="slide-src.svg"
+   inkscape:export-filename="/Users/tristen/Desktop/forsythe-1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4812"
+       id="pattern4838"
+       patternTransform="translate(411,1154.3622)" />
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#pattern4812"
+       id="pattern4820"
+       patternTransform="translate(411,1154.3622)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       patternTransform="translate(376.83765,1324.5481)"
+       id="pattern4015">
+      <image
+         y="0"
+         x="0"
+         id="image3995"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABHNCSVQICAgIfAhkiAAAADFJREFU GJVjZGBgEHn69OkbBiQgLS2NIcb49OlTBmIAE1GqaKNQWlpaBF0Qm9hQ8AwAAkAN6UTP8XkAAAAA SUVORK5CYII= "
+         height="10"
+         width="10" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="10"
+       height="10"
+       patternTransform="translate(391,1158.3622)"
+       id="pattern4760">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4750"
+         width="10"
+         height="10"
+         x="0"
+         y="0" />
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4752"
+         width="1"
+         height="1"
+         x="0"
+         y="0" />
+      <rect
+         y="0"
+         x="4"
+         height="1"
+         width="1"
+         id="rect4754"
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4756"
+         width="1"
+         height="1"
+         x="4"
+         y="5" />
+      <rect
+         y="5"
+         x="0"
+         height="1"
+         width="1"
+         id="rect4758"
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="10"
+       patternTransform="translate(391,1149.3622)"
+       id="pattern4783">
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4773"
+         width="8"
+         height="10"
+         x="0"
+         y="0" />
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4775"
+         width="1"
+         height="1"
+         x="0"
+         y="0" />
+      <rect
+         y="0"
+         x="4"
+         height="1"
+         width="1"
+         id="rect4777"
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4779"
+         width="1"
+         height="1"
+         x="4"
+         y="5" />
+      <rect
+         y="5"
+         x="0"
+         height="1"
+         width="1"
+         id="rect4781"
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </pattern>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="13.999997"
+       patternTransform="translate(411,1154.3622)"
+       id="pattern4812">
+      <rect
+         y="0"
+         x="0"
+         height="13.999997"
+         width="9"
+         id="rect4804"
+         style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         y="0"
+         x="0"
+         height="1"
+         width="1"
+         id="rect4806"
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4808"
+         width="1"
+         height="1"
+         x="0"
+         y="7" />
+      <rect
+         style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4810"
+         width="9"
+         height="13.999997"
+         x="0"
+         y="0" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="385.85312"
+     inkscape:cy="124.5585"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1085"
+     inkscape:window-height="767"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3880"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4748"
+       width="10"
+       height="10"
+       x="391"
+       y="1174.3622" />
+    <rect
+       style="color:#000000;fill:#6fd6e5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2985"
+       width="800"
+       height="300"
+       x="0"
+       y="752.36218" />
+    <rect
+       y="752.36218"
+       x="0"
+       height="300"
+       width="800"
+       id="rect4736"
+       style="color:#000000;fill:url(#pattern4820);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="font-size:141.44139099px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.25;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Forsythe;-inkscape-font-specification:Forsythe"
+       x="136.86"
+       y="843.96216"
+       id="text2987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2989"
+         x="136.86"
+         y="843.96216"
+         style="font-size:57px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Forsythe;-inkscape-font-specification:Forsythe">A New &amp; Open Font in two weights</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text2991"
+       y="947.24219"
+       x="504.39999"
+       style="font-size:99.47962189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       xml:space="preserve"><tspan
+         style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Forsythe;-inkscape-font-specification:Forsythe"
+         y="947.24219"
+         x="504.39999"
+         id="tspan2993"
+         sodipodi:role="line"><tspan
+           style="fill:#000000;fill-opacity:0.1835749"
+           id="tspan3828">sAns</tspan></tspan></text>
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4740"
+       width="1"
+       height="1"
+       x="391"
+       y="1164.3622" />
+    <rect
+       y="1164.3622"
+       x="395"
+       height="1"
+       width="1"
+       id="rect4742"
+       style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4744"
+       width="1"
+       height="1"
+       x="395"
+       y="1169.3622" />
+    <rect
+       y="1169.3622"
+       x="391"
+       height="1"
+       width="1"
+       id="rect4746"
+       style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="1144.3622"
+       x="391"
+       height="13.999997"
+       width="9"
+       id="rect4792"
+       style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       y="1144.3622"
+       x="391"
+       height="1"
+       width="1"
+       id="rect4794"
+       style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:0.1835749;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4800"
+       width="1"
+       height="1"
+       x="391"
+       y="1151.3622" />
+    <rect
+       style="color:#000000;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect4802"
+       width="9"
+       height="13.999997"
+       x="391"
+       y="1144.3622" />
+    <rect
+       style="fill:url(#pattern4838);stroke:none"
+       width="9"
+       height="13.999997"
+       x="411"
+       y="1144.3622"
+       id="rect4818" />
+    <text
+       xml:space="preserve"
+       style="font-size:99.47962189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="134.39999"
+       y="947.24219"
+       id="text4822"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4824"
+         x="134.39999"
+         y="947.24219"
+         style="font-size:120px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Forsythe;-inkscape-font-specification:Forsythe"><tspan
+           id="tspan4826"
+           style="font-size:120px;font-weight:bold;fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Forsythe Bold">Forsythe</tspan><tspan
+           id="tspan4828"
+           style="fill:#000000;fill-opacity:0.1835749" /></tspan></text>
+  </g>
+</svg>
