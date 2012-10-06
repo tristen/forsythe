@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.72403626"
-     inkscape:cx="557.56198"
-     inkscape:cy="622.16817"
+     inkscape:zoom="0.55396857"
+     inkscape:cx="487.35786"
+     inkscape:cy="736.19552"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
@@ -68,8 +68,9 @@
      transform="translate(0,-52.362183)">
     <path
        style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="M 320 0 L 320 800 L 384 800 L 384 288 L 480 544 L 576 288 L 576 800 L 640 800 L 640 0 L 592 0 L 480.09375 384 L 368 0 L 320 0 z "
-       transform="translate(0,52.362183)"
-       id="path9849" />
+       d="m 320,852.36218 0,-799.999997 48.00022,0 128.08538,416.000347 127.91578,-416.000347 47.99862,0 0,799.999997 -63.99869,0 0.002,-560.00009 -112.00091,336.00037 -112.00051,-336.00037 -0.002,560.00009 z"
+       id="path9849-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
   </g>
 </svg>

@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26410164"
+     inkscape:zoom="0.57153246"
      inkscape:cx="557.56198"
      inkscape:cy="622.16817"
      inkscape:document-units="px"
@@ -67,9 +67,13 @@
      id="layer1"
      transform="translate(0,-52.362183)">
     <path
-       style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="M 320 0 L 320 800 L 543.9375 800 C 575.9631 800 608 767.99984 608 736 L 608 64 C 608 32.000163 575.9631 4.7369516e-15 543.9375 0 L 320 0 z M 441.84375 96 C 443.71282 95.992096 445.7292 96.00012 447.875 96 L 479.90625 96 C 512.44865 95.998 511.90625 96.002 511.90625 128 L 511.90625 672 C 511.90625 704.0016 511.9154 704 480.125 704 L 445.5 704 C 415.8472 704 415.84375 704.00064 415.84375 672 L 415.84375 128 C 415.84375 98.0015 413.8077 96.118553 441.84375 96 z "
-       transform="translate(0,52.362183)"
-       id="path69743" />
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/tristen/devseed/mapbox.github.com/images/_source/mapbox-overhaul/developer-docs/renders/docs-landing.png"
+       sodipodi:nodetypes="cccssccssssssscs"
+       inkscape:connector-curvature="0"
+       id="path69743"
+       d="m 320,52.362183 0,799.999997 239.9472,0 c 32.0256,0 64.0528,-32 64.0528,-63.99984 L 624,116.3633 C 624,84.363463 591.9728,52.363463 559.9472,52.363463 z m 127.8688,96.001117 48.0256,-0.002 c 32.5424,-0.001 32.0272,0.002 32.0272,32 l 0,543.99904 c 0,32.0016 0,32 -31.7904,32 l -50.6368,0 c -29.6528,0 -29.6528,6.4e-4 -29.6528,-32 l 0,-543.99904 c 0,-31.9984 -2.3056,-31.99728 32.0272,-31.9984 z"
+       style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed" />
   </g>
 </svg>

@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.5"
      inkscape:cx="450.6037"
-     inkscape:cy="774.2809"
+     inkscape:cy="534.2809"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
@@ -68,8 +68,8 @@
      transform="translate(0,-52.362183)">
     <path
        style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="M 320 0 L 320 800 L 368 800 L 480.09375 416 L 592 800 L 640 800 L 640 0 L 576 0 L 576 512 L 480 256 L 384 512 L 384 0 L 320 0 z "
+       d="M 320 0 L 320 800 L 368 800 L 496.09375 416 L 624 800 L 672 800 L 672 0 L 608 0 L 608 592 L 496 256 L 384 592 L 384 0 L 320 0 z "
        transform="translate(0,52.362183)"
-       id="path3332" />
+       id="path3755" />
   </g>
 </svg>
