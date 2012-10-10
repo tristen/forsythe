@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7469279"
+     inkscape:zoom="1"
      inkscape:cx="444.21347"
-     inkscape:cy="514.6901"
+     inkscape:cy="394.6901"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
@@ -68,8 +68,10 @@
      transform="translate(0,-52.362183)">
     <path
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 320 0 L 320 94.125 L 492.5625 94.125 L 492.5625 800 L 586.65625 800 L 586.65625 0 L 320 0 z "
+       d="m 320,0 0,94 172,0 0,706 95,0 0,-800 z"
        transform="translate(0,52.362183)"
-       id="path4202-2" />
+       id="path4202-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>

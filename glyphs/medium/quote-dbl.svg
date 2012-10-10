@@ -14,7 +14,7 @@
    id="svg3373"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="quotedbl.svg">
+   sodipodi:docname="quote-dbl.svg">
   <defs
      id="defs3375" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30697545"
-     inkscape:cx="521.08454"
-     inkscape:cy="467.12153"
+     inkscape:zoom="1"
+     inkscape:cx="495.7251"
+     inkscape:cy="794.0664"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,8 +68,10 @@
      transform="translate(0,-52.362183)">
     <path
        style="color:#000000;fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 320 0 L 320 200 L 428.8125 200 L 428.8125 0 L 320 0 z M 483.1875 0 L 483.1875 200 L 592 200 L 592 0 L 483.1875 0 z "
+       d="m 320,0 0,200 109,0 0,-200 z m 163,0 0,200 109,0 0,-200 z"
        transform="translate(0,52.362183)"
-       id="path4135" />
+       id="path4135"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>

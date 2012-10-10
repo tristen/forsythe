@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54101563"
-     inkscape:cx="556.37017"
-     inkscape:cy="930.84252"
+     inkscape:zoom="1"
+     inkscape:cx="501.45919"
+     inkscape:cy="620.94822"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
@@ -68,8 +68,10 @@
      transform="translate(0,-52.362183)">
     <path
        style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="M 383.9375 0 C 351.97265 0 320 32.000113 320 64 L 320 384 C 320 416.00006 351.97265 448 383.9375 448 L 480.15625 448 C 512.1211 448 512.125 447.99947 512.125 480 L 512.125 544 L 512.125 640 L 512.125 672 C 512.125 704.00005 512.1211 704 480.15625 704 L 449.25 704 C 416.00034 703.99936 416 704.00005 416 672 L 416.21875 640 L 320.3125 640 L 320 736 C 320 767.99989 351.97265 800 383.9375 800 L 543.75 800 C 575.71485 800 607.6875 767.99989 607.6875 736 L 607.6875 416 C 607.6875 383.99994 575.71485 352 543.75 352 L 448.1875 352 C 416.22584 352.00032 416.21875 351.99989 416.21875 320 L 416.21875 224 L 416.21875 128 C 416.21875 95.99995 416.22584 96 448.1875 96 L 480 96 C 512.00005 96 511.98815 95.99987 512.09375 127.75 L 512.09375 160 L 608 160 L 607.6875 64 C 607.6875 32.000113 575.71485 -9.4739031e-15 543.75 0 L 383.9375 0 z "
+       d="m 384,0 c -31.96485,0 -64,32.000113 -64,64 l 0,320 c 0,32.00006 32.03515,64 64,64 l 96,0 c 31.96485,0 32,-5.3e-4 32,32 l 0,192 c 0,32.00005 -0.0353,32 -32,32 l -31,0 c -33.24966,-6.4e-4 -33,5e-5 -33,-32 l 0,-32 -96,0 0,96 c 0,31.99989 32.03515,64 64,64 l 160,0 c 31.96485,0 64,-32.00011 64,-64 l 0,-320 c 0,-32.00006 -32.03515,-64 -64,-64 l -96,0 c -31.96166,3.2e-4 -32,-1.1e-4 -32,-32 l 0,-192 c 0,-32.00005 0.0383,-32 32,-32 l 32,0 c 32,0 32,0 32,32 l 0,32 96,0 0,-96 C 608,32 576,0 544,0 z"
        transform="translate(0,52.362183)"
-       id="path69741" />
+       id="path69741"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssccscccccssssscccssccccss" />
   </g>
 </svg>

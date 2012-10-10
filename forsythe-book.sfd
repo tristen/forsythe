@@ -3,7 +3,7 @@ FontName: forsythe-book
 FullName: Forsythe
 FamilyName: Forsythe
 Weight: Book
-Copyright: Copyright (c) 2012, Tristen Brown <tristen.brown@gmail.com>, with Reserved Font Name: 'Forsyhe'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.0.\nThe license available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nSeptember 2012
+Copyright: Copyright (c) 2012, Tristen Brown <tristen.brown@gmail.com>, with Reserved Font Name: 'Forsythe'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.0.\nThe license available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nSeptember 2012
 UComments: "2012-9-15: Created." 
 Version: 001.000
 ItalicAngle: 0
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1347737418
-ModificationTime: 1349541214
+ModificationTime: 1349661658
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -756,6 +756,7 @@ SplineSet
  0 537.25 l 5
  0 600 l 5xb0
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: eight
@@ -1063,27 +1064,28 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 33
-Width: 392
+Width: 372
 VWidth: -200
 Flags: W
-HStem: -200 21G<20 86.8309 305.169 372> -200 21G<20 86.8309 305.169 372> 72 48<135 257> 580 20G<144.8 247.2> 580 20G<144.8 247.2>
+HStem: -200 21G<10 76.8309 295.169 362> -200 21G<10 76.8309 295.169 362> 72 48<125 247> 580 20G<134.8 237.2> 580 20G<134.8 237.2>
 LayerCount: 2
 Fore
 SplineSet
-148 600 m 1xb0
- 244 600 l 1
- 372 -200 l 1
- 308 -200 l 1
- 269.5 72 l 1
- 122.5 72 l 1
- 84 -200 l 1
- 20 -200 l 1
- 148 600 l 1xb0
-196 520 m 1
- 135 120 l 1
- 257 120 l 1
- 196 520 l 1
+138 600 m 1xb0
+ 234 600 l 1
+ 362 -200 l 1
+ 298 -200 l 1
+ 259.5 72 l 1
+ 112.5 72 l 1
+ 74 -200 l 1
+ 10 -200 l 1
+ 138 600 l 1xb0
+186 520 m 1
+ 125 120 l 1
+ 247 120 l 1
+ 186 520 l 1
 EndSplineSet
+Validated: 524289
 Kerns2: 83 -20 "Latin Kerning-1"  57 -100 "Latin Kerning-1"  86 -100 "Latin Kerning-1"  53 -100 "Latin Kerning-1"  51 -80 "Latin Kerning-1" 
 EndChar
 
@@ -1445,25 +1447,26 @@ Encoding: 77 77 44
 Width: 402
 VWidth: -200
 Flags: W
-HStem: -200 21G<25 89.0001 313.001 377> -200 21G<25 89.0001 313.001 377> 580 20G<25 79.158 322.851 377> 580 20G<25 79.158 322.851 377>
-VStem: 25 64<-200 360> 25 48<577.265 600> 313.001 63.999<-200 360> 329.001 47.999<577.235 600>
+HStem: -200 21G<25 89.0001 313 376.999> -200 21G<25 89.0001 313 376.999> 580 20G<25 78.9299 323.079 376.999> 580 20G<25 78.9299 323.079 376.999>
+VStem: 25 64<-200 312> 25 48<576.391 600> 313 63.999<-200 312> 329.001 47.998<576.359 600>
 LayerCount: 2
 Fore
 SplineSet
 25 -200 m 5xaa
  25 600 l 5
  73 600 l 5
- 201.0859375 184 l 5
+ 201.084960938 168 l 5
  329.000976562 600 l 5
- 377 600 l 5xa5
- 377 -200 l 5
- 313.000976562 -200 l 5
- 313.002929688 360 l 5
- 201.001953125 24 l 5
- 89.001953125 360 l 5
+ 376.999023438 600 l 5xa5
+ 376.999023438 -200 l 5
+ 313 -200 l 5
+ 313.002929688 312 l 5
+ 201.001953125 -24 l 5
+ 89.001953125 312 l 5
  89 -200 l 5
  25 -200 l 5xaa
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: N
@@ -1711,26 +1714,26 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 51
-Width: 328
+Width: 308
 VWidth: -200
 Flags: W
-HStem: -200 21G<132 196> -200 21G<132 196> 536 64<20 132 196 308>
-VStem: 132 64<-200 536>
+HStem: -200 21G<122 186> -200 21G<122 186> 536 64<10 122 186 298>
+VStem: 122 64<-200 536>
 LayerCount: 2
 Fore
 SplineSet
-20 600 m 5xb0
- 308 600 l 5
- 308 536 l 5
- 196 536 l 5
- 196 -200 l 5
- 132 -200 l 5
- 132 536 l 5
- 20 536 l 5
- 20 600 l 5xb0
+10 600 m 5xb0
+ 298 600 l 5
+ 298 536 l 5
+ 186 536 l 5
+ 186 -200 l 5
+ 122 -200 l 5
+ 122 536 l 5
+ 10 536 l 5
+ 10 600 l 5xb0
 EndSplineSet
 Validated: 1
-Kerns2: 33 -60 "Latin Kerning-1" 
+Kerns2: 65 -60 "Latin Kerning-1"  33 -60 "Latin Kerning-1" 
 EndChar
 
 StartChar: U
@@ -1765,21 +1768,21 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 53
-Width: 402
+Width: 372
 VWidth: -200
 Flags: W
-HStem: -200 21G<165.4 236.6> -200 21G<165.4 236.6> 580 20G<25 92.5443 309.456 377> 580 20G<25 92.5443 309.456 377>
+HStem: -200 21G<150.4 221.6> -200 21G<150.4 221.6> 580 20G<10 77.5443 294.456 362> 580 20G<10 77.5443 294.456 362>
 LayerCount: 2
 Fore
 SplineSet
-25 600 m 5xa0
- 89 600 l 5
- 201 -32 l 5
- 313 600 l 5
- 377 600 l 5
- 233 -200 l 5
- 169 -200 l 5
- 25 600 l 5xa0
+10 600 m 5xa0
+ 74 600 l 5
+ 186 -32 l 5
+ 298 600 l 5
+ 362 600 l 5
+ 218 -200 l 5
+ 154 -200 l 5
+ 10 600 l 5xa0
 EndSplineSet
 Validated: 1
 Kerns2: 65 -100 "Latin Kerning-1"  33 -100 "Latin Kerning-1" 
@@ -1787,29 +1790,29 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 54
-Width: 402
+Width: 370
 VWidth: -200
 Flags: W
-HStem: -200 21G<25 79.6715 322.338 377> -200 21G<25 79.6715 322.338 377> 580 20G<25 89 313 377> 580 20G<25 89 313 377>
-VStem: 25 64<8 600> 313 64<8 600>
+HStem: -200 21G<25.001 80.0063 290.006 345> -200 21G<25.001 80.0063 290.006 345> 580 20G<25.001 89.001 281.001 345> 580 20G<25.001 89.001 281.001 345>
+VStem: 25.001 64.002<8 600> 281.003 63.9971<8 600>
 LayerCount: 2
 Fore
 SplineSet
-25 600 m 5xac
- 89 600 l 5
- 89 8 l 5
- 201 344 l 5
- 313 8 l 5
- 313 600 l 5
- 377 600 l 5
- 377 -200 l 5
- 329 -200 l 5
- 201.09375 184 l 5
- 73 -200 l 5
- 25 -200 l 5
- 25 600 l 5xac
+25.0009765625 600 m 5xac
+ 89.0009765625 600 l 5
+ 89.0029296875 8 l 5
+ 185.002929688 296 l 5
+ 281.002929688 8 l 5
+ 281.000976562 600 l 5
+ 345 600 l 5
+ 345 -200 l 5
+ 297.000976562 -200 l 5
+ 185.0859375 120 l 5
+ 73.0009765625 -200 l 5
+ 25.0009765625 -200 l 5
+ 25.0009765625 600 l 5xac
 EndSplineSet
-Validated: 1
+Validated: 524289
 Kerns2: 33 -30 "Latin Kerning-1" 
 EndChar
 
@@ -1883,34 +1886,35 @@ SplineSet
  144 120 l 5
  0 600 l 5xae
 EndSplineSet
+Validated: 1
 Kerns2: 33 -95 "Latin Kerning-1" 
 EndChar
 
 StartChar: w
 Encoding: 119 119 58
-Width: 402
+Width: 370
 VWidth: -200
 Flags: W
-HStem: -200 21G<25 79.6715 322.338 377> -200 21G<25 79.6715 322.338 377> 580 20G<25 89 313 377> 580 20G<25 89 313 377>
-VStem: 25 64<8 600> 313 64<8 600>
+HStem: -200 21G<25.001 80.0063 290.006 345> -200 21G<25.001 80.0063 290.006 345> 580 20G<25.001 89.001 281.001 345> 580 20G<25.001 89.001 281.001 345>
+VStem: 25.001 64.002<8 600> 281.003 63.9971<8 600>
 LayerCount: 2
 Fore
 SplineSet
-25 600 m 5xac
- 89 600 l 5
- 89 8 l 5
- 201 344 l 5
- 313 8 l 5
- 313 600 l 5
- 377 600 l 5
- 377 -200 l 5
- 329 -200 l 5
- 201.09375 184 l 5
- 73 -200 l 5
- 25 -200 l 5
- 25 600 l 5xac
+25.0009765625 600 m 5xac
+ 89.0009765625 600 l 5
+ 89.0029296875 8 l 5
+ 185.002929688 296 l 5
+ 281.002929688 8 l 5
+ 281.000976562 600 l 5
+ 345 600 l 5
+ 345 -200 l 5
+ 297.000976562 -200 l 5
+ 185.0859375 120 l 5
+ 73.0009765625 -200 l 5
+ 25.0009765625 -200 l 5
+ 25.0009765625 600 l 5xac
 EndSplineSet
-Validated: 1
+Validated: 524289
 Kerns2: 65 -30 "Latin Kerning-1" 
 EndChar
 
@@ -2046,28 +2050,28 @@ EndChar
 
 StartChar: a
 Encoding: 97 97 65
-Width: 392
+Width: 372
 VWidth: -200
 Flags: W
-HStem: -200 21G<20 86.8309 305.169 372> -200 21G<20 86.8309 305.169 372> 72 48<135 257> 580 20G<144.8 247.2> 580 20G<144.8 247.2>
+HStem: -200 21G<10 76.8309 295.169 362> -200 21G<10 76.8309 295.169 362> 72 48<125 247> 580 20G<134.8 237.2> 580 20G<134.8 237.2>
 LayerCount: 2
 Fore
 SplineSet
-148 600 m 5xb0
- 244 600 l 5
- 372 -200 l 5
- 308 -200 l 5
- 269.5 72 l 5
- 122.5 72 l 5
- 84 -200 l 5
- 20 -200 l 5
- 148 600 l 5xb0
-196 520 m 5
- 135 120 l 5
- 257 120 l 5
- 196 520 l 5
+138 600 m 5xb0
+ 234 600 l 5
+ 362 -200 l 5
+ 298 -200 l 5
+ 259.5 72 l 5
+ 112.5 72 l 5
+ 74 -200 l 5
+ 10 -200 l 5
+ 138 600 l 5xb0
+186 520 m 5
+ 125 120 l 5
+ 247 120 l 5
+ 186 520 l 5
 EndSplineSet
-Validated: 1
+Validated: 524289
 Kerns2: 83 -20 "Latin Kerning-1"  88 -95 "Latin Kerning-1"  86 -100 "Latin Kerning-1"  53 -100 "Latin Kerning-1"  84 -80 "Latin Kerning-1" 
 EndChar
 
@@ -2426,25 +2430,26 @@ Encoding: 109 109 77
 Width: 402
 VWidth: -200
 Flags: W
-HStem: -200 21G<25 89.0001 313.001 377> -200 21G<25 89.0001 313.001 377> 580 20G<25 79.158 322.851 377> 580 20G<25 79.158 322.851 377>
-VStem: 25 64<-200 360> 25 48<577.265 600> 313.001 63.999<-200 360> 329.001 47.999<577.235 600>
+HStem: -200 21G<25 89.0001 313 376.999> -200 21G<25 89.0001 313 376.999> 580 20G<25 78.9299 323.079 376.999> 580 20G<25 78.9299 323.079 376.999>
+VStem: 25 64<-200 312> 25 48<576.391 600> 313 63.999<-200 312> 329.001 47.998<576.359 600>
 LayerCount: 2
 Fore
 SplineSet
 25 -200 m 5xaa
  25 600 l 5
  73 600 l 5
- 201.0859375 184 l 5
+ 201.084960938 168 l 5
  329.000976562 600 l 5
- 377 600 l 5xa5
- 377 -200 l 5
- 313.000976562 -200 l 5
- 313.002929688 360 l 5
- 201.001953125 24 l 5
- 89.001953125 360 l 5
+ 376.999023438 600 l 5xa5
+ 376.999023438 -200 l 5
+ 313 -200 l 5
+ 313.002929688 312 l 5
+ 201.001953125 -24 l 5
+ 89.001953125 312 l 5
  89 -200 l 5
  25 -200 l 5xaa
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: n
@@ -2692,25 +2697,26 @@ EndChar
 
 StartChar: t
 Encoding: 116 116 84
-Width: 328
+Width: 308
 VWidth: -200
 Flags: W
-HStem: -200 21G<132 196> -200 21G<132 196> 536 64<20 132 196 308>
-VStem: 132 64<-200 536>
+HStem: -200 21G<122 186> -200 21G<122 186> 536 64<10 122 186 298>
+VStem: 122 64<-200 536>
 LayerCount: 2
 Fore
 SplineSet
-20 600 m 5xb0
- 308 600 l 5
- 308 536 l 5
- 196 536 l 5
- 196 -200 l 5
- 132 -200 l 5
- 132 536 l 5
- 20 536 l 5
- 20 600 l 5xb0
+10 600 m 5xb0
+ 298 600 l 5
+ 298 536 l 5
+ 186 536 l 5
+ 186 -200 l 5
+ 122 -200 l 5
+ 122 536 l 5
+ 10 536 l 5
+ 10 600 l 5xb0
 EndSplineSet
 Validated: 1
+Kerns2: 65 -60 "Latin Kerning-1" 
 EndChar
 
 StartChar: u
@@ -2745,21 +2751,21 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 86
-Width: 402
+Width: 372
 VWidth: -200
 Flags: W
-HStem: -200 21G<165.4 236.6> -200 21G<165.4 236.6> 580 20G<25 92.5443 309.456 377> 580 20G<25 92.5443 309.456 377>
+HStem: -200 21G<150.4 221.6> -200 21G<150.4 221.6> 580 20G<10 77.5443 294.456 362> 580 20G<10 77.5443 294.456 362>
 LayerCount: 2
 Fore
 SplineSet
-25 600 m 5xa0
- 89 600 l 5
- 201 -32 l 5
- 313 600 l 5
- 377 600 l 5
- 233 -200 l 5
- 169 -200 l 5
- 25 600 l 5xa0
+10 600 m 5xa0
+ 74 600 l 5
+ 186 -32 l 5
+ 298 600 l 5
+ 362 600 l 5
+ 218 -200 l 5
+ 154 -200 l 5
+ 10 600 l 5xa0
 EndSplineSet
 Validated: 1
 Kerns2: 65 -100 "Latin Kerning-1"  33 -100 "Latin Kerning-1" 

@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.34268826"
+     inkscape:zoom="0.74159881"
      inkscape:cx="521.08454"
-     inkscape:cy="611.90404"
+     inkscape:cy="827.65412"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,8 +68,10 @@
      transform="translate(0,-52.362183)">
     <path
        style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="M 320 0 L 320 96 L 431.96875 96 C 463.92225 96 463.75 95.9984 463.75 120 L 463.75 216 L 463.96875 320 C 464.03273 351.99999 463.92225 352 431.96875 352 L 383.90625 352 C 351.94954 352 320 384.00001 320 416 L 320.3125 728 C 320.34609 759.99984 352.07454 800 384.03125 800 L 559.75 800 L 560 704 L 448.03125 704 C 416.07135 704 416.03496 703.99999 415.875 664 L 416.03125 480 C 416.07764 447.99968 416.07455 448 448.03125 448 L 496.21875 448 C 528.17546 448 560 424 560 392 L 560 64 C 560 32.000163 528.05046 0 496.09375 0 L 320 0 z "
+       d="m 320,0 0,96 112,0 c 31.9535,0 32,-0.0016 32,24 l 0,200 c 0.064,31.99999 -0.0465,32 -32,32 l -48,0 c -31.95671,0 -64,32.00001 -64,64 l 0,312 c 0.0336,31.99984 32.04329,72 64,72 l 176,0 0,-96 -112,0 c -31.9599,0 -31.84004,-10e-6 -32,-40 l 0,-184 c 0.0464,-32.00032 0.0433,-32 32,-32 l 48,0 c 31.95671,0 64,-24 64,-56 L 560,64 C 560,32.000163 527.95671,0 496,0 z"
        transform="translate(0,52.362183)"
-       id="path4185" />
+       id="path4185"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccssccsccsccsssssc" />
   </g>
 </svg>

@@ -24,12 +24,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6557494"
-     inkscape:cx="444.21347"
-     inkscape:cy="876.57539"
+     inkscape:zoom="1"
+     inkscape:cx="514.21347"
+     inkscape:cy="691.72258"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1280"
@@ -68,10 +68,10 @@
      transform="translate(0,-52.362183)">
     <path
        style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="m 320,0 0,384 c 0,32.00001 31.9727,64 63.9375,64 l 48.21875,0 c 31.96481,0 31.9375,-4.9e-4 31.9375,32 l 0,64 0,96 0,32 c 0,32.00001 0.0273,32.00016 -31.9375,32 L 320,704 l 0,96 175.8125,0 c 31.9648,0 63.9375,-32.00016 63.9375,-64 l 0,-320 c 0,-32.00001 -31.9727,-64.00048 -63.9375,-64 l -47.5625,0 c -31.96161,4.8e-4 -31.96875,-1.5e-4 -31.96875,-32 l 0,-96 0,-128 L 560,96 560,0 z"
+       d="m 320,0 0,384 c 0,32.00001 32.0352,64 64,64 l 48,0 c 31.96481,0 32,-4.9e-4 32,32 l 0,192 c 0,32.00001 -0.0352,32 -32,32 l -112,0 0,96 176,0 c 31.9648,0 64,-32.00016 64,-64 l 0,-320 c 0,-32.00001 -32.0352,-64.00048 -64,-64 l -48,0 c -31.96161,4.8e-4 -32,-1.5e-4 -32,-32 l 0,-224 144,0 0,-96 z"
        transform="translate(0,52.362183)"
        id="path4189"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssssccssccsssccsccccc" />
+       sodipodi:nodetypes="csssccsccsssccccccc" />
   </g>
 </svg>

@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.31670829"
+     inkscape:zoom="0.68537653"
      inkscape:cx="521.08454"
-     inkscape:cy="552.22874"
+     inkscape:cy="318.78042"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -68,8 +68,10 @@
      transform="translate(0,-52.362183)">
     <path
        style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="M 320 0 L 320 736 C 320 767.99984 351.9744 800 384 800 L 480 800 L 544 800 C 576.0256 800 608 767.99984 608 736 L 608 0 L 512 0 L 512 672 C 512 704.0016 511.792 704 480 704 L 448 704 C 416.2096 704 416 704.002 416 672 L 416 0 L 320 0 z "
+       d="m 320,0 0,736 c 0,31.99984 31.9744,64 64,64 l 160,0 c 32.0256,0 64,-32.00016 64,-64 l 0,-736 -96,0 0,672 c 0,32.0016 -0.208,32 -32,32 l -32,0 c -31.7904,0 -32,0.002 -32,-32 L 416,0 z"
        transform="translate(0,52.362183)"
-       id="path5859" />
+       id="path5859"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccsccsssscc" />
   </g>
 </svg>

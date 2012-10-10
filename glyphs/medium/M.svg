@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.36201813"
+     inkscape:zoom="0.39171493"
      inkscape:cx="557.56198"
      inkscape:cy="622.16817"
      inkscape:document-units="px"
@@ -67,9 +67,10 @@
      id="layer1"
      transform="translate(0,-52.362183)">
     <path
-       style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="M 320 0 L 320 800 L 416 800 L 416 336 L 512 624 L 608 336 L 608 800 L 704 800 L 704 0 L 640 0 L 512.09375 400 L 384 0 L 320 0 z "
-       transform="translate(0,52.362183)"
-       id="path5839" />
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path6248"
+       d="m 320,852.36218 0,-799.999997 64.00011,0 128.08501,384.000267 127.91541,-384.000267 63.99851,0 0,799.999997 -95.99856,0 0.002,-480 -96.00016,272.0003 -96.00016,-272.0003 -0.002,480 z"
+       style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed" />
   </g>
 </svg>
