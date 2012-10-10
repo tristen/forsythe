@@ -160,10 +160,11 @@ a {
   color:#fff;
   }
   .slide-1.active .presenting {
-    font-size:36px;
-    line-height:42px;
-    margin-top:130px;
-    display:block;
+    font-size: 42px;
+    line-height: 42px;
+    margin-top: 130px;
+    display: block;
+    color: #A0A0A0;
     }
 
 .slide-2.active {
