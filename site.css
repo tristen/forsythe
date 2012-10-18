@@ -72,18 +72,19 @@ body {
   }
 input {
   font:15px/22px 'Century Schoolbook',Century,Serif;
-  max-width:100%;
   vertical-align:middle;
   background:#fff;
   color:#000;
   border:1px solid #CCC;
-  border-color:#CCC #DDD #DDD;
-  width:100%;
-  height:50px;
-  padding:10px;
-  -webkit-box-shadow: inset #DDD 0px 1px 3px;
-     -moz-box-shadow: inset #ddd 0px 1px 3px;
-          box-shadow: inset #DDD 0px 1px 3px;
+  border-color:#CCC #B0B0B0 #B0B0B0;
+  padding:6px 10px;
+  float:left;
+  width:480px;
+  display:block;
+  margin-left:10px;
+  -webkit-box-shadow: inset #CCC 0 1px 3px;
+     -moz-box-shadow: inset #CCC 0 1px 3px;
+          box-shadow: inset #CCC 0 1px 3px;
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -104,7 +105,7 @@ a {
   padding:0 40px;
   }
 .section {
-  padding-bottom:40px;
+  padding-bottom:30px;
   }
 
 /*-----------------------------------
@@ -164,7 +165,7 @@ a {
     line-height: 42px;
     margin-top: 130px;
     display: block;
-    color: #A0A0A0;
+    color: #999;
     }
 
 .slide-2.active {
@@ -247,8 +248,7 @@ a {
           border-radius:50%;
   }
   .item.active {
-    background:#000;
-    background:rgba(0,0,0,0.95);
+    background:#555;
     }
 
 .col2 {
@@ -278,6 +278,7 @@ a {
   background:#fff;
   border-bottom:1px solid #ccc;
   position:relative;
+  padding:10px 0;
   -webkit-box-shadow:0 2px 4px rgba(0, 0, 0, 0.08);
           box-shadow:0 2px 4px rgba(0, 0, 0, 0.08);
   -webkit-border-radius: 4px 4px 0 0;
@@ -300,7 +301,7 @@ a {
       display:inline-block;
       text-decoration:none;
       text-align: center;
-      margin:10px auto;
+      margin:2px auto 0;
       color:#444;
       text-shadow:0 1px 0 #fff;
       padding:8px 18px;
@@ -335,7 +336,7 @@ a {
   width:240px;
   margin-right:10px;
   border:1px solid #aaa;
-  top:25px;
+  top:17px;
   -webkit-border-radius:2px;
           border-radius:2px;
   }
@@ -387,7 +388,7 @@ a {
 #output {
   background:#fff;
   padding:30px 40px;
-  height:230px;
+  height:280px;
   margin-bottom:20px;
   font-size:72px;
   line-height:62px;
@@ -429,7 +430,7 @@ a {
         -webkit-border-radius:30px;
                 border-radius:30px;
         }
-        .download ul li a:hover {
+        .download ul li a:active {
           background-color:#303030;
           }
 
@@ -468,20 +469,22 @@ Details: http: //perishablepress.com/press/2009/12/06/new-clearfix-hack*/
   #output {
     padding:20px;
     }
+  input,
   #weight-toggle,
   #text-zoomer {
     width:90%;
-    margin:0 auto;
+    margin:10px auto 0;
     float:none;
     }
   #text-zoomer {
     top:10px;
+    margin-bottom:20px;
     }
   .download ul {
     margin-bottom:20px;
     }
   .type-test .controls {
-    height:100px;
+    height:auto;
     }
   .col4 {
     width:100%;
