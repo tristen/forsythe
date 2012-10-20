@@ -289,13 +289,13 @@ a {
     margin-left:10px;
     }
     .toggle a {
-      background-color:#ebebeb;
-      background-image:-webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#ebebeb));
-      background-image:-webkit-linear-gradient(top, #f5f5f5, #ebebeb);
-      background-image:   -moz-linear-gradient(top, #f5f5f5, #ebebeb);
-      background-image:    -ms-linear-gradient(top, #f5f5f5, #ebebeb);
-      background-image:     -o-linear-gradient(top, #f5f5f5, #ebebeb);
-      background-image:        linear-gradient(to bottom, #f5f5f5, #ebebeb);
+      background-color:#e0e0e0;
+      background-image:-webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e0e0e0));
+      background-image:-webkit-linear-gradient(top, #f5f5f5, #e0e0e0);
+      background-image:   -moz-linear-gradient(top, #f5f5f5, #e0e0e0);
+      background-image:    -ms-linear-gradient(top, #f5f5f5, #e0e0e0);
+      background-image:     -o-linear-gradient(top, #f5f5f5, #e0e0e0);
+      background-image:        linear-gradient(to bottom, #f5f5f5, #e0e0e0);
       border:1px solid #b0b0b0;
       font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
       display:inline-block;
@@ -355,13 +355,13 @@ a {
   .icon.grip { background-position:2px 1px; }
 
   #text-zoomer .bar {
-    background-color:#ebebeb;
-    background-image:-webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#ebebeb));
-    background-image:-webkit-linear-gradient(top, #f5f5f5, #ebebeb);
-    background-image:   -moz-linear-gradient(top, #f5f5f5, #ebebeb);
-    background-image:    -ms-linear-gradient(top, #f5f5f5, #ebebeb);
-    background-image:     -o-linear-gradient(top, #f5f5f5, #ebebeb);
-    background-image:        linear-gradient(to bottom, #f5f5f5, #ebebeb);
+    background-color:#e0e0e0;
+    background-image:-webkit-gradient(linear, left top, left bottom, from(#f5f5f5), to(#e0e0e0));
+    background-image:-webkit-linear-gradient(top, #f5f5f5, #e0e0e0);
+    background-image:   -moz-linear-gradient(top, #f5f5f5, #e0e0e0);
+    background-image:    -ms-linear-gradient(top, #f5f5f5, #e0e0e0);
+    background-image:     -o-linear-gradient(top, #f5f5f5, #e0e0e0);
+    background-image:        linear-gradient(to bottom, #f5f5f5, #e0e0e0);
     border:1px solid #aaa;
     width:25px;
     height:20px;
