@@ -24,7 +24,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.68537653"
+     inkscape:zoom="1.4831976"
      inkscape:cx="521.08454"
      inkscape:cy="318.78042"
      inkscape:document-units="px"
@@ -68,9 +68,8 @@
      transform="translate(0,-52.362183)">
     <path
        style="font-size:19.0334568px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;display:inline;font-family:Swis721 Cn BT;-inkscape-font-specification:Swis721 Cn BT Bold Condensed"
-       d="m 320,0 0,736 c 0,31.99984 31.9744,64 64,64 l 160,0 c 32.0256,0 64,-32.00016 64,-64 l 0,-736 -96,0 0,672 c 0,32.0016 -0.208,32 -32,32 l -32,0 c -31.7904,0 -32,0.002 -32,-32 L 416,0 z"
-       transform="translate(0,52.362183)"
-       id="path5859"
+       d="m 320,52.362183 0,735.999997 c 0,32 32,64 64,64 l 176,0 c 32,0 64,-32 64,-64 l 0,-735.999997 -96,0 0,671.999997 c 0,32 0,32 -32,32 l -48,0 c -31.7904,0 -32,0.002 -32,-32 l 0,-671.999997 z"
+       id="path5859-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csccsccsssscc" />
   </g>
