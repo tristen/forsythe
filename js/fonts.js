@@ -25,6 +25,11 @@ function addEvent(object, event, method) {
             zoomer.setStep(6);
         },
 
+        _cancel: function(event) {
+            (event.preventDefault) ? event.preventDefault() : event.returnValue = false;
+            (event.stopPropagation) ? event.stopPropagation() : event.cancelBubble = true;
+        },
+
         typeTester: function(input, output, toggle) {
             var self = this,
                 weights = toggle.getElementsByTagName('a');
@@ -34,8 +39,7 @@ function addEvent(object, event, method) {
 
             for (var i = 0; i < weights.length; i++) {
                 addEvent(weights[i], 'click', function(e) {
-                    e.preventDefault();
-                    e.stopPropagation();
+                    self._cancel(e);
                     if (this.className !== 'active') {
                         var children = this.parentNode.getElementsByTagName('a');
                         for (var c = 0; c < children.length; c++) children[c].className = '';
@@ -88,8 +92,7 @@ function addEvent(object, event, method) {
 
                 pager.appendChild(item);
                 addEvent(item, 'click', function(e) {
-                    e.preventDefault();
-                    e.stopPropagation();
+                    self._cancel(e);
                     if (this.className.search('active') === -1) {
                         var classId = this.className.split(' ')[1];
                         var children = this.parentNode.getElementsByTagName('a');
