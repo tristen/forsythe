@@ -160,12 +160,9 @@ a {
   line-height:115px;
   color:#fff;
   }
-  .slide-1.active .presenting {
-    font-size: 42px;
-    line-height: 42px;
-    margin-top: 130px;
-    display: block;
-    color: #808080;
+  .slide-1.active span {
+    margin-top:140px;
+    display:block;
     }
 
 .slide-2.active {

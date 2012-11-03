@@ -9,6 +9,12 @@ function addEvent(object, event, method) {
     }
 }
 
+function cancel(event) {
+    (event.preventDefault) ? event.preventDefault() : event.returnValue = false;
+    (event.stopPropagation) ? event.stopPropagation() : event.cancelBubble = true;
+}
+
+
 !(function(context) {
     var FontUI = function() {};
 
@@ -20,14 +26,9 @@ function addEvent(object, event, method) {
                     var v = 20 + x * 73;
                     output.style.fontSize = String(v.toFixed()) + 'px';
                     output.style.lineHeight = String((v - 5).toFixed()) + 'px';
-	            }
+                }
             });
             zoomer.setStep(6);
-        },
-
-        _cancel: function(event) {
-            (event.preventDefault) ? event.preventDefault() : event.returnValue = false;
-            (event.stopPropagation) ? event.stopPropagation() : event.cancelBubble = true;
         },
 
         typeTester: function(input, output, toggle) {
@@ -39,7 +40,7 @@ function addEvent(object, event, method) {
 
             for (var i = 0; i < weights.length; i++) {
                 addEvent(weights[i], 'click', function(e) {
-                    self._cancel(e);
+                    cancel(e);
                     if (this.className !== 'active') {
                         var children = this.parentNode.getElementsByTagName('a');
                         for (var c = 0; c < children.length; c++) children[c].className = '';
@@ -60,7 +61,7 @@ function addEvent(object, event, method) {
                     case 37: // right arrow
                     case 13: // enter
                     case 16: // shift
-                        break
+                        break;
 
                     default:
                         output.innerHTML = '<span class=' + self.weight + '>' + input.value + '</span>';
@@ -87,12 +88,12 @@ function addEvent(object, event, method) {
                 // Set the first page link an active class
                 if (!set) {
                     item.className += ' active';
-                    var set = true;
+                    set = true;
                 }
 
                 pager.appendChild(item);
                 addEvent(item, 'click', function(e) {
-                    self._cancel(e);
+                    cancel(e);
                     if (this.className.search('active') === -1) {
                         var classId = this.className.split(' ')[1];
                         var children = this.parentNode.getElementsByTagName('a');
@@ -108,7 +109,7 @@ function addEvent(object, event, method) {
                 });
            }
         }
-    }
+    };
 
     window.FontUI = FontUI;
 })(window);
