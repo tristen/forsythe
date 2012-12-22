@@ -1,4 +1,4 @@
-![League Gothic](https://github.com/tristen/forsythe/raw/master/images/forsythe-1.png)
+![](https://github.com/tristen/forsythe/raw/master/images/forsythe-1.png)
 
 Forsythe Sans
 =============
