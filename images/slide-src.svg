@@ -10,13 +10,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="660"
-   height="140"
+   width="520"
+   height="120"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
    sodipodi:docname="slide-src.svg"
-   inkscape:export-filename="/Users/tristen/dev/github/forsythe/images/forsythe-1.png"
+   inkscape:export-filename="./forsythe-1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -199,7 +199,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
+     inkscape:zoom="1"
      inkscape:cx="283.03578"
      inkscape:cy="24.396213"
      inkscape:document-units="px"
@@ -234,7 +234,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-912.36218)">
+     transform="translate(0,-932.36218)">
     <rect
        style="opacity:0;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect2985"
@@ -245,16 +245,14 @@
     <text
        xml:space="preserve"
        style="font-size:99.47962189px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
-       x="-3.75"
-       y="1007.3622"
+       x="-3"
+       y="1013.3622"
        id="text4822"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4824"
-         x="-3.75"
-         y="1007.3622"
-         style="font-size:150px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Forsythe;-inkscape-font-specification:Forsythe Bold">Forsythe <tspan
-   style="fill:#666666;fill-opacity:1"
-   id="tspan4160">Sans</tspan></tspan></text>
+         x="-3"
+         y="1013.3622"
+         style="font-size:120px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:Forsythe;-inkscape-font-specification:Forsythe Bold">Forsythe Sans</tspan></text>
   </g>
 </svg>
