@@ -8,6 +8,7 @@ __Normal__:
 - Wider R aperture. 
 - Smaller aperture on P re-worked percent.
 - Increased I left/right bearing on both famlies.
+
 __Bold__:  
 - Wider O and U aperture.
 - Smaller aperture on P re-worked percent and ampersand.
@@ -18,7 +19,9 @@ __Bold__:
 - Overall non-integral cleanups
 
 #### Oct 6th, 2012
-- Overall L and R bearings have been adjusted. - Spaces between words tighter.
+- Overall L and R bearings have been adjusted.
+- Spaces between words tighter.
+
 __Medium__  
 - Widened arms on the T slightly 
 - Consistent aperture on the D in relation to other glyphs 
