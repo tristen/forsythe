@@ -31,41 +31,39 @@
 </div>
 
   <div id='slides'>
-    <div class='slide slide-1 centered book active'>
-      <span>Forsythe sans</span>
-    </div>
-    <div class='slide slide-2 centered book'>
-      <p>It's good for <span class='medium'>headlines</span></p>
-    </div>
-    <div class='slide slide-3'>
-      <img src='images/slide-two.png' alt='' />
+    <div class='slide slide-1 centered active'>
+      <div class='frame'>
+        <div class='headline normal'>
+          <strong>Forsythe</strong> sans
+        </div>
+          A tall sans font in Normal &amp; Bold<br />
+        <div class='action'>
+          <a href='https://github.com/tristen/forsythe/archive/master.zip' class='button'>Download</a>
+          <a href='http://github.com/tristen/forsythe' class='button'>Source</a>
+        </div>
+      </div>
     </div>
   </div>
   <div id='pager'></div>
-  <div class='section introduction'>
-    <div class='limiter'>
-      A tall sans font in Medium &amp; Book weights. It's also <a href='http://github.com/tristen/forsythe'>open source</a>. <a href='https://github.com/downloads/tristen/forsythe/Forsythe-2012-10-20.zip'>Download it</a>.
-    </div>
-  </div>
   <div class='section type-test'>
     <div class='limiter'>
       <div class='controls clearfix'>
         <div id='weight-toggle' class='toggle clearfix'>
-          <a id='book' href='#'>Book</a>
-          <a id='medium' href='#'>Medium</a>
+          <a id='normal' href='#'>Normal</a>
+          <a id='bold' href='#'>Bold</a>
         </div>
-        <input id='test' type='text' value='The quick brown fox jumped over the lazy dog.'>
+        <input id='test' type='text' value='Pack my box with five dozen liquor jugs'>
         <div id='text-zoomer' class='dragdealer'>
           <div id='handle' class='bar handle'><span class='icon grip'></span></div>
         </div>
       </div>
-      <div id='output'><span class='book'>The quick brown fox jumped over the lazy dog.</span></div>
+      <div id='output'><span class='normal'>Pack my box with five dozen liquor jugs</span></div>
     </div>
   </div>
   <div class='section download'>
     <ul>
-      <li><a href='https://github.com/downloads/tristen/forsythe/Forsythe-2012-10-20.zip'>Download Forsythe</a></li>
-      <li><a href='http://github.com/tristen/forsythe'>GitHub</a></li>
+      <li><a href='https://github.com/tristen/forsythe/archive/master.zip'>Download Forsythe</a></li>
+      <li><a href='http://github.com/tristen/forsythe'>Source on GitHub</a></li>
     </ul>
     <small class='centered'>Designed by <a href='http://tristen.ca'>tristen</a>. The source code is released under an <a href='http://scripts.sil.org/OFL'>SIL Open Font Licence</a>. Help make Forsythe a great font by <a href='http://github.com/tristen/forsythe'>contributing on GitHub</a>.</small>
   </div>
@@ -80,14 +78,14 @@
         fontUI = new FontUI();
         fontUI.fontZoomer('text-zoomer', o);
         fontUI.typeTester(i,o,t);
-        fontUI.slideShow(s);
+        // fontUI.slideShow(s);
   </script>
   <script src='http://tristen.ca/site.js'></script>
   <script>
     var masthead = new Tristen();
     masthead.masthead();
   </script>
-  <script type="text/javascript">
+  <script>
   
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-15498769-1']);

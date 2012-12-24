@@ -40,20 +40,21 @@ table { border-collapse: collapse; border-spacing:0; }
 :focus { outline:0; }
 
 @font-face {
-  font-family:'Forsythe Medium';
-  src: url('webfonts/forsythe-medium.eot') format('eot');
-  src: url('webfonts/forsythe-medium.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/forsythe-medium.woff') format('woff');
-       url('webfonts/forsythe-medium.ttf') format('truetype'),
-       url('webfonts/forsythe-medium.svg#forythe') format('svg');
+  font-family:'Forsythe';
+  font-weight:bold;
+  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot?raw=true') format('eot');
+  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot?raw=true?#iefix') format('embedded-opentype'),
+       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.woff?raw=true') format('woff');
+       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.ttf?raw=true') format('truetype'),
+       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.svg?raw=true#forythe') format('svg');
   }
 @font-face {
-  font-family:'Forsythe Book';
-  src: url('webfonts/forsythe-book.eot') format('eot');
-  src: url('webfonts/forsythe-book.eot?#iefix') format('embedded-opentype'),
-       url('webfonts/forsythe-book.woff') format('woff');
-       url('webfonts/forsythe-book.ttf') format('truetype'),
-       url('webfonts/forsythe-book.svg#forythe') format('svg');
+  font-family:'Forsythe';
+  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot?raw=true') format('eot');
+  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot?raw=true?#iefix') format('embedded-opentype'),
+       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.woff?raw=true') format('woff');
+       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.ttf?raw=true') format('truetype'),
+       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.svg?raw=true#forythe') format('svg');
   }
 
 .prose {
@@ -89,11 +90,36 @@ input {
      -moz-box-sizing: border-box;
           box-sizing: border-box;
   }
-.medium { font-family:'Forsythe Medium','Arial Narrow',Arial; }
-.book   { font-family:'Forsythe Book','Arial Narrow',Arial; }
+strong {
+  font-weight:bold;
+  }
+
+.bold     { font-family:'Forsythe','Arial Narrow',Arial; font-weight:bold; }
+.normal   { font-family:'Forsythe','Arial Narrow',Arial; }
+.bright   { color:#fff; }
 
 a {
   color:#000;
+  }
+.button {
+  background:#1F90FF;
+  background:-webkit-gradient(linear, left top, left bottom, from(#1F90FF), to(#0081FF));
+  background:-moz-linear-gradient(top, #1F90FF, #0081FF);
+  color:#fff;
+  display:block;
+  padding:0 40px;
+  margin:0 5px;
+  text-decoration:none;
+  font-size:18px;
+  font-style:italic;
+  height:45px;
+  line-height:45px;
+  display:inline-block;
+  text-decoration:none;
+  -webkit-border-radius:30px;
+          border-radius:30px;
+  -webkit-box-shadow:0 0 0 6px rgba(0,0,0,0.35);
+          box-shadow:0 0 0 6px rgba(0,0,0,0.35);
   }
 
 /*-----------------------------------
@@ -139,6 +165,7 @@ a {
   }
   .slide.active {
     display:block;
+    z-index:100;
     -webkit-animation-delay:250ms;
        -moz-animation-delay:250ms;
          -o-animation-delay:250ms;
@@ -156,13 +183,16 @@ a {
 .slide-1.active {
   background:transparent url(images/slide-one.png) no-repeat center center;
   background-size:cover;
-  font-size:120px;
-  line-height:115px;
   color:#fff;
   }
-  .slide-1.active span {
-    margin-top:140px;
-    display:block;
+  .slide-1 .headline {
+    font-size:120px;
+    line-height:115px;
+    margin-top:90px;
+    text-shadow:0 2px 4px rgba(0,0,0,0.8);
+    }
+  .slide-1 .action {
+    margin-top:40px;
     }
 
 .slide-2.active {
@@ -230,6 +260,7 @@ a {
   text-align:center;
   position:relative;
   top:-55px;
+  z-index:1000;
   }
 .item {
   background:#e0e0e0;
@@ -255,16 +286,18 @@ a {
   padding-top:20px;
   }
 
-/*-----------------------------------
-  Section: Introduction
--------------------------------------*/
-.introduction {
+.frame {
+  background:rgba(0,0,0,0.65);
+  position:absolute;
+  width:100%;
+  height:100%;
   font-size:18px;
   line-height:26px;
   padding:20px 0 40px;
   text-align:center;
+  -webkit-border-radius:2px;
+          border-radius:2px;
   }
-
 /*-----------------------------------
   Section: Type tester
 -------------------------------------*/
@@ -451,8 +484,6 @@ Details: http: //perishablepress.com/press/2009/12/06/new-clearfix-hack*/
   }
 * html .clearfix { height:1%; }
 *:first-child + html .clearfix { min-height:1%; }
-
-
 
 /*-----------------------------------
   Mobile

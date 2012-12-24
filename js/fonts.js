@@ -1,5 +1,5 @@
 // http://ejohn.org/apps/jselect/event.html
-function addEvent(object, event, method) {
+var addEvent = function(object, event, method) {
     if (object.attachEvent) {
         object['e' + event + method] = method;
         object[event + method] = function(){object['e' + event + method](window.event);};
@@ -9,11 +9,23 @@ function addEvent(object, event, method) {
     }
 }
 
-function cancel(event) {
+var cancel = function(event) {
     (event.preventDefault) ? event.preventDefault() : event.returnValue = false;
     (event.stopPropagation) ? event.stopPropagation() : event.cancelBubble = true;
 }
 
+// Via https://github.com/honza/140medley/blob/master/140medley.js#L74
+var $ = function(a, b) {
+    a = a.match(/^(\W)?(.*)/);
+    return(b || document)[
+        'getElement' + (
+            a[1] ? a[1] === '#'
+            ? 'ById'
+            : 'sByClassName'
+            : 'sByTagName'
+        )
+    ](a[2])
+}
 
 !(function(context) {
     var FontUI = function() {};
@@ -77,7 +89,7 @@ function cancel(event) {
         },
 
         slideShow: function(show) {
-            var slides = show.getElementsByTagName('div'),
+            var slides = $('.slide'),
                 pager = document.getElementById('pager'),
                 set = false;
 
