@@ -121,6 +121,12 @@ a {
   -webkit-box-shadow:0 0 0 6px rgba(0,0,0,0.35);
           box-shadow:0 0 0 6px rgba(0,0,0,0.35);
   }
+  .button:hover {
+    background: #1F90FF;
+    }
+  .button:active {
+    background: #0081FF;
+    }
 
 /*-----------------------------------
   Global Layout
