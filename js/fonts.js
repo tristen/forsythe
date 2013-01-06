@@ -1,19 +1,3 @@
-// http://ejohn.org/apps/jselect/event.html
-var addEvent = function(object, event, method) {
-    if (object.attachEvent) {
-        object['e' + event + method] = method;
-        object[event + method] = function(){object['e' + event + method](window.event);};
-        object.attachEvent('on' + event, object[event + method]);
-    } else {
-    object.addEventListener(event, method, false);
-    }
-}
-
-var cancel = function(event) {
-    (event.preventDefault) ? event.preventDefault() : event.returnValue = false;
-    (event.stopPropagation) ? event.stopPropagation() : event.cancelBubble = true;
-}
-
 // Via https://github.com/honza/140medley/blob/master/140medley.js#L74
 var $ = function(a, b) {
     a = a.match(/^(\W)?(.*)/);
