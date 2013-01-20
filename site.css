@@ -128,6 +128,10 @@ a {
     background: #0081FF;
     }
 
+.caption {
+  color:#a0a0a0;
+  }
+
 /*-----------------------------------
   Global Layout
 -------------------------------------*/
@@ -146,7 +150,7 @@ a {
 #slides {
   background:#fff;
   position:relative;
-  height:440px;
+  height:320px;
   }
 .slide {
   top:40px;
@@ -194,7 +198,7 @@ a {
   .slide-1 .headline {
     font-size:120px;
     line-height:115px;
-    margin-top:90px;
+    margin-top:70px;
     text-shadow:0 2px 4px rgba(0,0,0,0.8);
     }
   .slide-1 .action {
