@@ -41,20 +41,18 @@ table { border-collapse: collapse; border-spacing:0; }
 
 @font-face {
   font-family:'Forsythe';
-  font-weight:bold;
-  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot?raw=true') format('eot');
-  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot?raw=true?#iefix') format('embedded-opentype'),
-       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.woff?raw=true') format('woff');
-       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.ttf?raw=true') format('truetype'),
-       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.svg?raw=true#forythe') format('svg');
+  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot');
+  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.woff') format('woff');
+  font-weight:normal;
   }
+
 @font-face {
   font-family:'Forsythe';
-  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot?raw=true') format('eot');
-  src: url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot?raw=true?#iefix') format('embedded-opentype'),
-       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.woff?raw=true') format('woff');
-       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.ttf?raw=true') format('truetype'),
-       url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.svg?raw=true#forythe') format('svg');
+  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot');
+  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.woff') format('woff');
+  font-weight:bold;
   }
 
 .prose {
