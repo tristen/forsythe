@@ -92,8 +92,8 @@ strong {
   font-weight:bold;
   }
 
-.bold     { font-family:'Forsythe','Arial Narrow',Arial; font-weight:bold; }
-.normal   { font-family:'Forsythe','Arial Narrow',Arial; }
+.bold     { font-family:'Forsythe'; font-weight:bold; }
+.normal   { font-family:'Forsythe'; }
 .bright   { color:#fff; }
 
 a {
