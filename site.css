@@ -41,17 +41,17 @@ table { border-collapse: collapse; border-spacing:0; }
 
 @font-face {
   font-family:'Forsythe';
-  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot');
-  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.eot?#iefix') format('embedded-opentype'),
-      url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-normal.woff') format('woff');
+  src:url('fonts/forsythe-normal.eot');
+  src:url('fonts/forsythe-normal.eot?#iefix') format('embedded-opentype'),
+      url('fonts/forsythe-normal.woff') format('woff');
   font-weight:normal;
   }
 
 @font-face {
   font-family:'Forsythe';
-  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot');
-  src:url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.eot?#iefix') format('embedded-opentype'),
-      url('https://github.com/tristen/forsythe/blob/master/webfonts/forsythe-bold.woff') format('woff');
+  src:url('fonts/forsythe-bold.eot');
+  src:url('fonts/forsythe-bold.eot?#iefix') format('embedded-opentype'),
+      url('fonts/forsythe-bold.woff') format('woff');
   font-weight:bold;
   }
 
