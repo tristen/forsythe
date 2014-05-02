@@ -4,44 +4,20 @@
   <meta charset='utf-8' />
   <title>Forsythe Sans</title>
   <link rel='shortcut icon' href='images/favicon.ico' type='image/x-icon' />
-  <link href='http://tristen.ca/global.css' rel='stylesheet' />
   <link href='site.css' rel='stylesheet' />
 </head>
 <body>
-
-<div id='masthead'>
-  <div class='limiter col12 clearfix'>
-    <div class='col3'>
-      <div class='inner'>
-        <h2>Tristen Brown</h2>
-        <p>A Coder/Designer at <a href='http://mapbox.com'>MapBox.</a></p>
-        <a href='http://tristen.ca' class='icon home' title='Homepage'>Home</a>
-        <a href='http://tristen.ca/blog' class='icon blog' title='Blog'>Blog</a>
-        <a href='http://twitter.com/fallsemo' class='icon twitter' title='Twitter'>Twitter</a>
-        <a href='http://github.com/tristen' class='icon github' title='GitHub'>Github</a>
-      </div>
-    </div>
-    <div class='col col9'>
-      <div class='inner'>
-        <h3>Projects</h3>
-        <ul id='tristen-projects'></ul>
-      </div>
-    </div>
-    <a href='#' id='t-toggle'><span>t</span></a>
-  </div>
-</div>
 
   <div id='slides'>
     <div class='slide slide-1 centered active'>
       <div class='frame'>
         <div class='headline normal'>
-          <strong>Forsythe</strong> sans
+          Forsythe sans
         </div>
         <div class='caption'>A tall sans font in Normal &amp; Bold</div>
       </div>
     </div>
   </div>
-  <div id='pager'></div>
   <div class='section type-test'>
     <div class='limiter'>
       <div class='controls clearfix'>
@@ -62,11 +38,10 @@
       <li><a href='https://github.com/tristen/forsythe/archive/master.zip'>Download Forsythe</a></li>
       <li><a href='http://github.com/tristen/forsythe'>Source on GitHub</a></li>
     </ul>
-    <small class='centered'>Designed by <a href='http://tristen.ca'>tristen</a>. The source code is released under an <a href='http://scripts.sil.org/OFL'>SIL Open Font Licence</a>. Help make Forsythe a great font by <a href='http://github.com/tristen/forsythe'>contributing on GitHub</a>.</small>
+    <small class='centered'>Made by <a href='http://tristen.ca'>tristen</a>. The source code is released under an <a href='http://scripts.sil.org/OFL'>SIL Open Font Licence</a>. Help make Forsythe a great font by <a href='http://github.com/tristen/forsythe'>contributing on GitHub</a>.</small>
   </div>
-  <script src='http://tristen.ca/site.js'></script>
-  <script src='js/qwery.min.js'></script>
-  <script src='js/fonts.js'></script>
+  <script src='dragdealer.min.js'></script>
+  <script src='site.js'></script>
   <script>
     var i = document.getElementById('test'),
         o = document.getElementById('output'),
@@ -76,12 +51,7 @@
         fontUI.fontZoomer('text-zoomer', o);
         fontUI.typeTester(i,o,t);
         // fontUI.slideShow(s);
-  </script>
-  <script>
-    var masthead = new Tristen();
-    masthead.masthead();
-  </script>
-  <script>
+
     var analytics=analytics||[];(function(){var e=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group"],t=function(e){return function(){analytics.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var n=0;n<e.length;n++)analytics[e[n]]=t(e[n])})(),analytics.load=function(e){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+e+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)};
   analytics.load("ppyh4q5xb3");
   </script>

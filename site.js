@@ -11,6 +11,21 @@ var $ = function(a, b) {
     ](a[2])
 }
 
+var addEvent = function(object, event, method) {
+    if (object.attachEvent) {
+        object['e' + event + method] = method;
+        object[event + method] = function(){object['e' + event + method](window.event);};
+        object.attachEvent('on' + event, object[event + method]);
+    } else {
+    object.addEventListener(event, method, false);
+    }
+};
+
+var cancel = function(event) {
+    (event.preventDefault) ? event.preventDefault() : event.returnValue = false;
+    (event.stopPropagation) ? event.stopPropagation() : event.cancelBubble = true;
+};
+
 !(function(context) {
     var FontUI = function() {};
 
